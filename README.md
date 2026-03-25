@@ -36,16 +36,16 @@ The system leverages structured AI analysis to convert unstructured job messages
 ```
 JobScanX/
 ├── backend/
-│   ├── main.py                  # FastAPI backend with ML + NLP
-│   ├── fake_job_postings.csv   # Training dataset
-│   ├── requirements.txt        # Python dependencies
-│   ├── server.js               # (optional) Node server (if used)
+│   ├── main.py                  
+│   ├── fake_job_postings.csv   
+│   ├── requirements.txt        
+│   ├── server.js               
 │   ├── package.json
 │   └── .env
 │
 ├── frontend/
-│   ├── public/                 # Static assets
-│   ├── src/                    # React source code
+│   ├── public/                 
+│   ├── src/                    
 │   ├── package.json
 │   └── .env
 │
@@ -181,9 +181,10 @@ These factors are aggregated into a normalized risk score.
 
 ---
 
-## 👩‍💻 Author
-
+## 👩‍💻 Authors
+**Anshika Bhatt**
 **Stuti Sharma**
+
 
 ---
 
