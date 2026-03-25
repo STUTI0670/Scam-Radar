@@ -18,6 +18,7 @@ ScamRadar helps users:
 The system leverages structured AI analysis to convert unstructured job messages into meaningful risk scores and recommendations.
 
 ---
+<img width="2406" height="1361" alt="image" src="https://github.com/user-attachments/assets/50c7f6c2-1678-4a5b-ac62-40594816116d" />
 
 ## 🏗️ Tech Stack
 
@@ -27,6 +28,7 @@ The system leverages structured AI analysis to convert unstructured job messages
 * **Architecture:** Client–Server (Decoupled Frontend & Backend)
 
 ---
+
 
 ## 📁 Project Structure
 
