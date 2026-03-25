@@ -20,6 +20,8 @@ The system leverages structured AI analysis to convert unstructured job messages
 ---
 <img width="2406" height="1361" alt="image" src="https://github.com/user-attachments/assets/50c7f6c2-1678-4a5b-ac62-40594816116d" />
 <img width="2208" height="1296" alt="image" src="https://github.com/user-attachments/assets/e437b689-1ec0-42ac-944a-5ac9a858c097" />
+<img width="785" height="484" alt="image" src="https://github.com/user-attachments/assets/b4077537-4dec-4307-9c20-cda5581bfed0" />
+<img width="785" height="484" alt="image" src="https://github.com/user-attachments/assets/b4077537-4dec-4307-9c20-cda5581bfed0" />
 
 ## 🏗️ Tech Stack
 
@@ -61,8 +63,14 @@ JobScanX/
 
 ```bash
 cd backend
-npm install
-npm run dev
+# install python dependencies
+pip install -r requirements.txt
+
+# run backend server
+uvicorn main:app --reload
+
+👉 Backend will run on:
+http://127.0.0.1:8000
 ```
 
 ---
