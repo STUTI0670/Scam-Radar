@@ -20,8 +20,6 @@ The system leverages structured AI analysis to convert unstructured job messages
 ---
 <img width="2406" height="1361" alt="image" src="https://github.com/user-attachments/assets/50c7f6c2-1678-4a5b-ac62-40594816116d" />
 <img width="2208" height="1296" alt="image" src="https://github.com/user-attachments/assets/e437b689-1ec0-42ac-944a-5ac9a858c097" />
-<img width="750" height="366" alt="image" src="https://github.com/user-attachments/assets/b4077537-4dec-4307-9c20-cda5581bfed0" />
-
 
 ## 🏗️ Tech Stack
 
@@ -161,6 +159,8 @@ The system evaluates:
 These factors are aggregated into a normalized risk score.
 
 ---
+<img width="750" height="366" alt="image" src="https://github.com/user-attachments/assets/b4077537-4dec-4307-9c20-cda5581bfed0" />
+
 
 ## 🔒 Security & Configuration
 
